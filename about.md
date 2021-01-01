@@ -3,7 +3,7 @@ layout: empty/about
 title: Borworntat Dendumrongkul     # you can also change the title.
 ---
 
-<img src="blog/assets/img/people/Ice.jpg">
+<img src="https://mastericez.github.io/img/about.jpg">
 
 ### Education
  - Rayongwittayakom School (2017-2023)
