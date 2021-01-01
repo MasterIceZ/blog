@@ -1,6 +1,6 @@
 ---
 layout: empty/about
-title: About Me       # you can also change the title.
+title: Borworntat Dendumrongkul     # you can also change the title.
 ---
 
 {% comment %}
