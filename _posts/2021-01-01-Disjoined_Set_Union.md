@@ -46,11 +46,11 @@ Joined Tree :
   / \   \
 [3] [4] [5]
 ```
-เปรียบได้กับ Tree เป็น Set
-Tree[#1] = {1,2,3,4,5,6}
-Tree[#2]={2,8,7}
-Joined Tree คือ Set ที่ Union กัน
-Joined Tree = {1,2,3,4,5,6,7,8}
+เปรียบได้กับ Tree เป็น Set <br>
+Tree[#1] = {1,2,3,4,5,6} <br>
+Tree[#2]={2,8,7} <br>
+Joined Tree คือ Set ที่ Union กัน <br>
+Joined Tree = {1,2,3,4,5,6,7,8} <br>
 
 Source Code(C++) :
 ```cpp
