@@ -5,8 +5,8 @@
 # Identity
 # --------
 
-title:
-description:
+title: IceBorworntat's Blog
+description: competitive coder
 
 logo:  "/assets/img/logo.png"
 cover: "/assets/img/cover.png"
@@ -14,7 +14,7 @@ cover: "/assets/img/cover.png"
 baseurl:
 url:
 
-owner:
+owner: IceBorworntat
 rights: All Right Reserved
 
 
@@ -26,7 +26,7 @@ google:
   verification:
 
 facebook:
-  username:
+  username: Borworntat
   app_id:
 
 twitter:
