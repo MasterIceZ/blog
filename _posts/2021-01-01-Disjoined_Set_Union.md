@@ -63,6 +63,6 @@ int32_t main(){
     return 0;
 }
 ```
-ตัวอย่างโจทย์ที่เกี่ยวกับ DSU :
-[General](https://beta.programming.in.th/tasks/1092)
+ตัวอย่างโจทย์ที่เกี่ยวกับ DSU :<br>
+[General](https://beta.programming.in.th/tasks/1092)<br>
 [Book Exchange](https://codeforces.com/contest/1249/problem/B2)
