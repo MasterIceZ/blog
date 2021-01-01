@@ -8,7 +8,6 @@ title: Borworntat Dendumrongkul     # you can also change the title.
 ### Education
  - Rayongwittayakom School (2017-2023)
 
-[Portfolio](https://mastericez.github.io)
 
 {% comment %}
 
