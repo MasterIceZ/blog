@@ -5,7 +5,8 @@ title: Borworntat Dendumrongkul     # you can also change the title.
 
 <img src="/assets/img/people/Ice.jpg">
 
-<h4>Borworntat Dendumrongkul</h4>
+### Education
+ - Rayongwittayakom School (2017-2023)
 
 {% comment %}
 
