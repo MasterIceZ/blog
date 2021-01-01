@@ -19,6 +19,39 @@ int find_root(int u){
     return parent[u];
 }
 ```
+
+```txt
+Example Tree[#1] : 
+    [2]
+    / \
+  [1] [6]
+  / \   \
+ [3][4] [5]
+```
+2  เป็น root ของ Tree นั้
+```txt
+Example Tree[#2] :
+   [8]
+  /   \
+[2]   [7]
+```
+สามารถรวม Tree[#1] กับ Tree[#2] ได้เป็น
+```txt
+Joined Tree :
+     [8]
+     / \
+   [2] [7]
+   / \
+  [1] [6]
+  / \   \
+[3] [4] [5]
+```
+เปรียบได้กับ Tree เป็น Set
+Tree[#1] = {1,2,3,4,5,6}
+Tree[#2]={2,8,7}
+Joined Tree คือ Set ที่ Union กัน
+Joined Tree = {1,2,3,4,5,6,7,8}
+
 Source Code(C++) :
 ```cpp
 #include<iostream>
