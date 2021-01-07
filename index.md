@@ -5,9 +5,6 @@ feature:
   posts:
     latest: 1
     list:
-      - "/2021/01/02/KU01"
-      - "/2021/01/01/KU01_Island"
-      - "/2021/01/01/Disjoined_Set_Union"
   projects:
     latest: 0
     list:
