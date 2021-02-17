@@ -4,6 +4,7 @@ tags:
   - Csharp
   - Programming
   - Casual
+  - Story
 date: 2021-01-16 17:32:00 +0700
 people: 
   IceBorworntat: author, coder
